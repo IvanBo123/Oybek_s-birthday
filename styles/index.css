@@ -1,0 +1,72 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    height: 100%;
+    background: #474951 !important;
+}
+
+#birthdayCard {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    width: 100%;
+    height: 100vh;
+}
+
+@media(max-width: 991px) {
+    html {
+        font-size: 15px;
+    }
+    body {
+        width: 100vw;
+        height: 100vh;
+        background: #474951 !important;
+    }
+    #birthdayCard {
+        width: 100vh;
+        height: 100vw;
+        transform: rotate(90deg);
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+    }
+    img {
+        width: 100vh;
+        height: 100vw;
+    }
+}
+
+@media(max-width: 767px) {
+    html {
+        font-size: 15px;
+    }
+    body {
+        width: 100vw;
+        height: 100vh;
+        background: #474951 !important;
+    }
+    #birthdayCard {
+        width: 100vh;
+        height: 100vw;
+        transform: rotate(90deg);
+        -webkit-transform: rotate(90deg);
+        -moz-transform: rotate(90deg);
+        -o-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+    }
+    .carousel-inner {
+        width: 100vh !important;
+    }
+    .carousel-item {
+        width: 100vh;
+    }
+    img {
+        width: 100vh;
+        height: 100vw;
+    }
+}
