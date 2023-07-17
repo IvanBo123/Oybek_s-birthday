@@ -54,10 +54,10 @@ img {
         width: 100vh;
         height: 100vw;
         transform: rotate(90deg);
-        -webkit-transform: rotate(90deg);
+        /* -webkit-transform: rotate(90deg);
         -moz-transform: rotate(90deg);
         -o-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
+        -ms-transform: rotate(90deg); */
     }
     .carousel-inner {
         width: 100vh !important;
