@@ -65,7 +65,7 @@ img {
     }
     .carousel-inner {
         width: 80vh !important;
-        height: 80vw !important;
+/*         height: 80vw !important; */
     }
     .carousel-item {
         width: 100vh;
