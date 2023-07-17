@@ -13,7 +13,7 @@ body {
 }
 
 .carousel-inner {
-    width: 85vh !important;
+    width: 85vw !important;
 }
 .carousel-item {
     width: 100%;
