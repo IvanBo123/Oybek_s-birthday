@@ -65,10 +65,10 @@ img {
     }
     .carousel-inner {
         width: 80vh !important;
-        height: 80vw !important;
+        height: 100% !important;
     }
     .carousel-item {
-        width: 100vh;
+        width: 100%;
     }
     img {
         width: 100%;
