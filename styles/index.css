@@ -64,7 +64,7 @@ img {
         -ms-transform: rotate(90deg); */
     }
     .carousel-inner {
-        width: 80vh !important;
+        width: 95vh !important;
         height: 100% !important;
     }
     .carousel-item {
